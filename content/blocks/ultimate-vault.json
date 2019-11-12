@@ -1,4 +1,5 @@
-"name": "Ultimate Vault",
+{
+	"name": "Ultimate Vault",
 	"description": "The Ultimate vault.",
 	"type": "Vault",
 	"itemCapacity": 10000,
