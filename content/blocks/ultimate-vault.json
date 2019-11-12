@@ -1,0 +1,15 @@
+"name": "Ultimate Vault",
+	"description": "The Ultimate vault.",
+	"type": "Vault",
+	"itemCapacity": 10000,
+	"hasItems": true,
+	"health": 10000,
+	"size": 3,
+	"requirements": [
+		{ "item": "plastanium", "amount": 2000 },
+		{ "item": "titanium", "amount": 1500 },
+		{ "item": "thorium", "amount": 1000 }
+	],
+	"category": "effect",
+	"research": "vault"
+}
