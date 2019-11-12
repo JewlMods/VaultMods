@@ -1,0 +1,3 @@
+TODO:
+add a map with silver and gold
+  -import silver crags into map editor and then add gold sand then export and commit/upload
