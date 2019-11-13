@@ -3,10 +3,9 @@
 	"description": "A waste land with golden sand and silver",
 	"loadout": "basicFoundation",
     "startingItems": [
-    	{"item": "copper", "amount": 1000},
-    	{"item": "lead", "amount": 1000}
-      {"item": "graphite", "amount": 500},
-    	{"item": "silicon", "amount": 500}
+    	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 500}
+        {"item": "graphite", "amount": 100},
     ],
     "conditionWave": 10,
     "launchPeriod": 10,
