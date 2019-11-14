@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Gold",
+	"description": "Smelted form of gold powder",
+	"hardness": 2,
+	"cost": 2.0,
+	"color": "ffffff"
+}
