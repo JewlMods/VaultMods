@@ -1,0 +1,34 @@
+{
+	"type": "GenericSmelter",
+	"name": "Gold Forge",
+	"description": "Melts gold powder into pure gold using power and water",
+	"liquidCapacity": 50,
+	"outputItem": {"item": "gold", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 20,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.7,
+		"items": {
+			"items": [
+				{ "item": "gold-powder", "amount": 2 }
+			]
+		},
+		"liquid": {
+			"liquid": "water",
+			"amount": 1.0
+		}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 50 },
+		{ "item": "silicon", "amount": 60 },
+		{ "item": "silver", "amount": 50 }
+	],
+	"category": "crafting",
+	"research": "silver-crucible",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
