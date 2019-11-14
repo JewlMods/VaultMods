@@ -1,7 +1,10 @@
 TODO:
 
 add sprites for
-gold forge
-gold turret
-gold
+  gold forge
+  gold turret
+  gold
+
+and call them in .properties
+
 
