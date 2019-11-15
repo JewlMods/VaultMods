@@ -19,7 +19,16 @@
 			"smokeEffect": "shootSmallSmoke",
 			"ammoMultiplier": 3
 			 },
-		""
+		"gold" : { 
+			"speed": 2.0,
+			"damage": 20,
+			"bulletWidth": 7,
+			"bulletHeight": 9,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 3
+			
+		}
 	},
 	"requirements": [
 		{ "item": "gold", "amount": 20 },
