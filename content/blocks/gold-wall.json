@@ -7,6 +7,6 @@
 	],
 	"category": "defense",
 	"health": 400,
-	"buildtime": .75,
+	"buildtime": 0.50,
 	"research": "copper-wall"
 }
