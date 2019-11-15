@@ -5,7 +5,7 @@
 	"requirements": [
 		{"item": "gold", "amount": 6},
 	],
-	"category": "protection",
+	"category": "defense",
 	"health": 400,
 	"research": "copper-wall"
 }
