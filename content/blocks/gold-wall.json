@@ -1,0 +1,11 @@
+{
+	"type": "Wall",
+	"name": "Gold Wall",
+	"description": "A golden wall",
+	"requirements": [
+		{"item": "gold", "amount": 6},
+	],
+	"category": "protection",
+	"health": 400,
+	"research": "copper-wall"
+}
