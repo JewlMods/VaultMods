@@ -1,7 +1,7 @@
 {
 	"type": "Conveyor",
 	"name": "Electrum conveyor",
-	"description": "Example conveyor.",
+	"description": "An upgraded version of the titanium conyeor",
 	"requirements": [
 		{"item": "titanium", "amount": 3},
 		{"item": "copper", "amount": 3},
